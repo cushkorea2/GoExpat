@@ -1,0 +1,22 @@
+expat-website/
+|-- src/
+|   |-- components/
+|   |   |-- About.js
+|   |   |-- ContactForm.js
+|   |   |-- NewsletterForm.js
+|   |   |-- VisaRequirements.js
+|   |
+|   |-- App.js
+|   |-- index.js
+|
+|-- assets/
+|   |-- css/
+|   |   |-- styles.css
+|
+|-- data/
+|   |-- visaRequirements.json
+|
+|-- public/
+|   |-- index.html
+|
+|-- package.json
